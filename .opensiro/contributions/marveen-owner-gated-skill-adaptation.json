@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "marveen-owner-gated-skill-adaptation",
+  "original_repository": "Szotasz/marveen",
+  "legacy_sources": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/cases/marveen.md"
+  ],
+  "title": "Owner-gated external skill adaptation proposals",
+  "work_state": "DELIVERED",
+  "next_action": "Historical migration only; no new engineering or outreach while owner_control is PAUSE; reverify native and publication gates before RESUME",
+  "source_revision": null,
+  "native_evidence": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/cases/marveen.md"
+  ],
+  "work_branches": [],
+  "external_prs": [
+    "https://github.com/Szotasz/marveen/pull/1516"
+  ],
+  "last_event_id": null
+}
